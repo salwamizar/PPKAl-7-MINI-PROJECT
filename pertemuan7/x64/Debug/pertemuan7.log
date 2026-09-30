@@ -1,0 +1,7 @@
+﻿  pertemuan7.cpp
+D:\KULIAH\1\PPKD\pertemuan7\pertemuan7\pertemuan7.cpp(46,22): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\KULIAH\1\PPKD\pertemuan7\pertemuan7\pertemuan7.cpp(54,28): warning C4101: 'i': unreferenced local variable
+D:\KULIAH\1\PPKD\pertemuan7\pertemuan7\pertemuan7.cpp(87,9): warning C4101: 'i': unreferenced local variable
+D:\KULIAH\1\PPKD\pertemuan7\pertemuan7\pertemuan7.cpp(111,28): warning C4101: 'i': unreferenced local variable
+D:\KULIAH\1\PPKD\pertemuan7\pertemuan7\pertemuan7.cpp(140,59): warning C4101: 'i': unreferenced local variable
+  pertemuan7.vcxproj -> D:\KULIAH\1\PPKD\pertemuan7\x64\Debug\pertemuan7.exe
